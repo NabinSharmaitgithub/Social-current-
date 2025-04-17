@@ -28,8 +28,29 @@ Nepal’s population stands at approximately 30.55 million, with individuals ag
 By January 2025, internet penetration in Nepal climbed to 55.8 percent, with 16.5 million internet users and social media identities representing 48.1 percent of the population citeturn0search0. Mobile connectivity has similarly flourished: in early 2024, there were 37.5 million active cellular connections—equivalent to 120.6 percent of Nepal’s population—underscoring the ubiquity of mobile devices in everyday life citeturn0search2. This digital boom has fostered new youth subcultures and platforms for expression, yet it has also sparked discussions on privacy, data governance, and online safety, as highlighted in the 2024 State of Digital Rights report citeturn0search7.
 
 ## Gender Equality and Social Inclusion
+Although Nepal has achieved an adult female literacy rate of 70.0 percent, a significant gap remains compared to the male rate of 82.3 percent, limiting women’s access to higher-paying jobs and informed civic participation 
+World Bank Open Data
+. UNESCO reports that literacy programs have steadily improved female literacy over the past three decades, but progress has slowed in remote areas lacking infrastructure and trained educators 
+UNESCO
+.
 
-Progress toward gender parity remains uneven. On International Women’s Day 2025, nationwide events emphasized the theme “For All Women and Girls: Rights. Equality. Empowerment,” reflecting ongoing efforts to elevate women’s status citeturn0search8. However, UN Women’s 2023–2027 strategic baseline study notes significant barriers—including socioeconomic constraints, cultural norms, and limited political participation—that differentially impact women across ethnicities citeturn0search3. While legal frameworks enshrine gender equality, implementation gaps persist in rural areas, where access to education, healthcare, and economic opportunities for women is often constrained citeturn0search3.
+Economic Participation
+Female labour force participation in Nepal stands at just 78.2 percent of women aged 15 and above, compared to 82.5 percent for men, and women disproportionately occupy informal, low-wage jobs with limited social protection 
+World Bank Open Data
+. Moreover, the Global Gender Gap Index ranks Nepal 116th out of 146 countries in 2023, with an economic participation score of only 0.476—far below the South Asian average—indicating severe barriers to women’s full economic integration 
+Kathmandu Post
+countryeconomy.com
+.
+
+Political Representation
+Women hold only 33 percent of seats in the federal parliament, slightly above the constitutional minimum quota of 33 percent, yet they are often relegated to symbolic roles with limited influence over policymaking 
+UN Women Asia Pacific
+. At the local level, cultural norms and party dynamics continue to inhibit women’s meaningful participation as decision‑makers, undermining efforts to ensure gender-responsive governance.
+
+Gender‑Based Violence
+According to the 2022 Nepal DHS, 26 percent of ever‑married women experienced intimate partner violence at some point in their lives, and 15 percent reported physical or sexual violence in the past year 
+DHS Program
+. Although the Domestic Violence (Crime and Punishment) Act 2009 provides legal recourse, underreporting remains high due to social stigma, limited access to shelters, and inadequate police training, especially in rural districts.
 
 ## Caste Discrimination and Social Justice
 

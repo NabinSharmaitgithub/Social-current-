@@ -2,6 +2,23 @@
 
 In recent years, Nepal has experienced profound social transformations driven by demographic shifts, digital expansion, ongoing struggles for gender equality and social inclusion, persistent caste-based discrimination, and growing environmental and political movements. A significant portion of the population—particularly young adults—has migrated abroad for labour, resulting in remittances that underpin the national economy. Meanwhile, internet and mobile penetration have surged, reshaping youth culture and catalyzing debates on digital rights. Despite legislative progress, women and Dalit communities continue to face structural barriers. Simultaneously, the rise of electric vehicles and public protests for monarchical restoration reflect evolving societal priorities and discontents.
 
+Child Abuse in Nepal
+Prevalence and Forms
+UNICEF defines violence against children as encompassing physical, sexual, and emotional abuse, often committed by family members, teachers, or other trusted adults, and occurring in homes, schools, and online environments 
+UNICEF DATA
+. In Nepal, a UNICEF study found that one in three married adolescent girls had been subjected to sexual violence by their husbands, while one in six reported physical violence, highlighting the overlap between child marriage and abuse 
+UNICEF
+.
+
+Legal Frameworks and Institutions
+The Children’s Act 2018 and its 2020 amendments established the National Child Rights Council to oversee child protection policies and coordinate across ministries 
+childrights.gov.np
+. However, implementation at the district level is hampered by limited budgets, insufficient training for child welfare officers, and low community awareness of children’s rights.
+
+Response and Challenges
+Save the Children Nepal’s 2023 report underscores gaps in the child protection system, where more than 40 percent of reported abuse cases are not investigated due to procedural backlogs and lack of victim support services 
+Save the Children’s Resource Centre
+. NGOs and UN agencies have launched community‑based awareness campaigns and helplines, but sustainable impact requires systemic reform, improved data collection, and stronger collaboration between government bodies and civil society.
 ## Demographics and Migration
 
 Nepal’s population stands at approximately 30.55 million, with individuals aged 16–25 making up about 20.8 percent, and those aged 16–40 comprising roughly 40.7 percent of the total population; this large youth cohort has become increasingly mobile in search of work opportunities abroad citeturn0search1. As domestic labour markets struggle to absorb new entrants, outward migration has reached record levels, transforming Nepal into one of the world’s most remittance-dependent economies citeturn0search1turn0search6. In 2019, personal remittances accounted for nearly 24 percent of GDP, stabilizing consumption-led growth amid import reliance citeturn0search6.
